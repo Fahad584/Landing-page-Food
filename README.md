@@ -6,7 +6,7 @@ Landing-page-food
 **2**
 ![Screenshot (9)](https://github.com/Fahad584/Landing-page-Food/assets/107251127/890e026e-4f8d-4966-a040-7096673d168c)
 **3**
-![Screenshot (10![Screenshot (13)](https://github.com/Fahad584/Landing-page-Food/assets/107251127/7e5905ad-a684-4eb4-afef-c5a99f00760a)
+![Screenshot (10)](https://github.com/Fahad584/Landing-page-Food/assets/107251127/7b01f4f2-99ee-47d2-a35d-9d60a440c5bf)
 **4**
 ![Screenshot (11)](https://github.com/Fahad584/Landing-page-Food/assets/107251127/17476deb-9823-4224-afcc-0da1fd7176f0)
 **5**
